@@ -18,7 +18,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="150dp" android:layout_marginHorizontal="20dp"
                     android:layout_marginVertical="20dp"
-                    android:text="Новые рестораны"/>
+                    android:onClick="goToNewRest" android:text="Новые рестораны"/>
             <Button
                     android:id="@+id/allRest"
                     android:layout_width="150dp"
