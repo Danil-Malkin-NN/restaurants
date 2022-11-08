@@ -6,4 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".NewRestorations">
 
+    <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:text="Что я хочу увидеть на этом экране.\n
+ Список ресторанов с картиночкой, описанием, оценкой и адресом размещения
+"
+            tools:layout_editor_absoluteX="176dp"
+            tools:layout_editor_absoluteY="278dp"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
