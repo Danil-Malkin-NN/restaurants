@@ -10,6 +10,7 @@ import io.develop.restaurants.databinding.FragmentFirstBinding
 
 /**
  * A simple [Fragment] subclass as the default destination in the navigation.
+ * 08/11/2022
  */
 class FirstFragment : Fragment() {
 
